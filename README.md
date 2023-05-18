@@ -2,6 +2,7 @@
 ## （北京大学の企画）
 PKU Course Project. Designing a complete Angry Birds game with only the original pictures and sound sources provided. Code thoroughly self-developed.  
 ## Task Checklist  
+All Attention: 物理引擎的模拟方式涉及到“最短刷新时间”的概念，需要在写代码实现的时候共同处理这个问题
 ### Part 1  （1号队员负责）  
 1. 游戏抓包：游戏基本界面、图贴、音效  
 2. 游戏基本框架架构：（1）主界面：开始新游戏/继续当前游戏->关卡的设置、存储和读取；设置（设置音效）；退出   
