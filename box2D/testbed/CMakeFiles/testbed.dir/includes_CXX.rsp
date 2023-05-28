@@ -1,0 +1,1 @@
+-I"D:/VideoFIles/box2d-main/box2d-main/testbed" -I"D:/VideoFIles/box2d-main/box2d-main/src/../include" -I"D:/VideoFIles/box2d-main/box2d-main/extern/glfw/include" -I"D:/VideoFIles/box2d-main/box2d-main/extern/imgui/.." -I"D:/VideoFIles/box2d-main/box2d-main/extern/sajson/.." -I"D:/VideoFIles/box2d-main/box2d-main/extern/glad/include"

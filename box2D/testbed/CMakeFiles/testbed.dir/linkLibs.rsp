@@ -1,0 +1,1 @@
+ ../bin/libbox2d.a ../bin/libglfw.a ../bin/libimgui.a ../bin/libsajson.a ../bin/libglad.a -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 
