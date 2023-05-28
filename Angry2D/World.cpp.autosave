@@ -1,0 +1,6 @@
+#include"World.h"
+//code implementation
+void world::one_shot(real x,real y)
+{
+    //先计算
+}
