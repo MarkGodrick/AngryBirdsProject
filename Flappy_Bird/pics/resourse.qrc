@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>0.png</file>
+        <file>1.png</file>
+        <file>2.png</file>
+        <file>bg.png</file>
+        <file>gameover.png</file>
+        <file>ground.png</file>
+        <file>pipe.png</file>
+        <file>startbutton.png</file>
+        <file>title.png</file>
+        <file>num1.png</file>
+        <file>num2.png</file>
+        <file>num3.png</file>
+        <file>get_ready.png</file>
+        <file>pause.png</file>
+        <file>new.png</file>
+        <file>quit.png</file>
+    </qresource>
+</RCC>
